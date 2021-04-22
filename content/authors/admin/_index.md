@@ -70,7 +70,7 @@ highlight_name: false
 
 Raymond Widjaja is a student of Computational Finance at the City University of Hong Kong. He is also the Head of Quantitative Research in CityU Student Research and Investment Club. 
 
-Raymond's experience range rom Data analysis, consulting, Quantitative Research and risk management. Also, he represents the Department of Economics and Finance in the Rotman International Trading Competition 2021 as an Algorithmic Trader, which the team continued to be the best-performing team in Asia, beating Harvard, UCLA, and NYU, to name a few.
+Raymond's experience range rom data analysis, consulting, quantitative research and risk management. Also, he represents the Department of Economics and Finance in the Rotman International Trading Competition 2021 as an Algorithmic Trader, which the team continued to be the best-performing team in Asia, beating Harvard, UCLA, and NYU, to name a few.
 
 Raymond is currently studying toward his Bachelors Degree in City University of Hong Kong. His research interests include quantitative trading, asset pricing, machine learning and time series model.
 
