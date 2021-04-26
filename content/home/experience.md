@@ -41,7 +41,8 @@ experience:
     location: Hong Kong
     date_start: '2020-09-01'
     date_end: '2020-12-04'
-    Responsibilities include:
+    description: |2-  
+      Responsibilities include:
         * Develop trading strategy using Machine Learning models for equity and futures market with Sharpe Ratio above 2
         * Research relevant academic papers and develop system for strategy backtesting automation through Python
     
