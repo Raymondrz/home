@@ -30,9 +30,9 @@ experience:
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        *Developed JavaScript API to accomodate client changing trading strategies with appropirate risk analytics and data aggregation tools
-        *Maintain and continuously improve trading platform for pricing complex financial products using Excel Wrapper and autopricer
+      Responsibilities include:
+        * Developed JavaScript API to accomodate client changing trading strategies with appropirate risk analytics and data aggregation tools
+        * Maintain and continuously improve trading platform for pricing complex financial products using Excel Wrapper and autopricer
         
   - title: Quantitative Analyst Intern
     company: XY Capital
